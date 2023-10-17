@@ -14,7 +14,6 @@ Em seguida foram criadas as classes e interfaces no formato de arquivos .java
 - [NavegadorInternet](src/estabelecimento/NavegadorInternet.java)
 - [ReprodutorMidia](src/equipamento/ReprodutorMidia.java)
 
-
 ## Comportamentos esperados
 
 - Reprodutor Musical: tocar, pausar, selecionarMusica, sincronizarDados;
